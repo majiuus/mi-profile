@@ -1,0 +1,108 @@
+body {
+    background: #F9F7F3;
+    color: #575F7D;
+    font-size: 18px; /* Increased font size */
+    font-weight: light;
+    font-family: 'Fira Sans Condensed', sans-serif; /* Changed font family */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.img-circle {
+    border-radius:10px;
+}
+#leader {
+    border:5px solid white;
+}
+img {
+  width: 50%;
+  height: auto;
+}
+.btn-blue {
+    background-color: #EB5E55;
+    color: floralwhite;
+    padding: 8px 24px; /* Increased padding */
+    border-radius: 4px;
+}
+
+.btn-blue:hover {
+    background-color: #CDEAC0;
+    color: floralwhite;
+}
+
+h1 {
+    color: #6A8E7F;
+    font-family: 'Archivo Black', sans-serif; /* Changed font family */
+    text-align: center;
+    letter-spacing: 0.25em;
+    font-size: 36px; /* Increased font size */
+}
+
+a {
+    text-decoration: none;
+    color: #E0B0D5;
+}
+
+a:hover {
+    color: #E0B0D5;
+}
+
+.profile {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
+
+#intro,
+#section2,
+#section3,
+#section4,
+#section5 {
+    background-color: #B5E2FA;
+}
+
+.font-styles {
+    margin-bottom: 10px; /* Increased margin */
+    justify-content: center;
+    border-radius: 1px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    margin: 70px;
+    border: 2px solid;
+    padding: 16px; /* Increased padding */
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 12px; /* Increased padding */
+}
+
+.list-inline i {
+    font-size: 36px; /* Increased font size */
+    color: #FFDDCC;
+}
+
+.list-inline i:hover {
+    color: #99154E;
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2, h3 {
+    color: #5C374C;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    font-weight: 600;
+    font-size: 20px; /* Increased font size */
+}
+
+.fira-sans-condensed-bold {
